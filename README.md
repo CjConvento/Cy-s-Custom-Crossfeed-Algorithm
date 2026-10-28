@@ -1,4 +1,4 @@
-# 30° Stereo Crossfeed & Modular Parametric EQ Suite
+# 30° Stereo Crossfeed Custom Script
 
 A custom crossfeed algorithm script designed to mimic speaker's exact delay of 0.32ms and eliminate the artificial "in-your-head" stereo isolation blob inherent to standard iem and headphones.
 
